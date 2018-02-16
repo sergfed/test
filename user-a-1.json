@@ -1,9 +1,6 @@
 [
 {
-  "type": "settings"
-},
-{
-  "type": "text",
-  "content": "Hello, beautiful world!"
+  "type": "settings",
+"title": "Cms Git Test"
 }
 ]
