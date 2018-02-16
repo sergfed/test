@@ -1,5 +1,9 @@
 [
 {
   "type": "settings"
+},
+{
+  "type": "text",
+  "content": "Hello world!"
 }
 ]
