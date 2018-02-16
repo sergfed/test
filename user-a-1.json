@@ -1,7 +1,11 @@
 [
-{
-  "type": "settings",
-  "title": "Cms Git Test",
-  "permalink": "xxx"
-}
+  {
+    "type": "settings",
+    "title": "Cms Git Test",
+    "permalink": "xxx"
+  },
+  {
+    "type": "text",
+    "content": "Hello world!"
+  }
 ]
